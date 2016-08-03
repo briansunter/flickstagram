@@ -1,0 +1,23 @@
+PODS:
+  - Argo (3.0.2)
+  - Curry (2.3.1)
+  - Kingfisher (2.4.2)
+  - RxCocoa (2.6.0):
+    - RxSwift (~> 2.5)
+  - RxSwift (2.6.0)
+
+DEPENDENCIES:
+  - Argo
+  - Curry
+  - Kingfisher (~> 2.4)
+  - RxCocoa (~> 2.0)
+  - RxSwift (~> 2.0)
+
+SPEC CHECKSUMS:
+  Argo: 41018b96f2cda032f6eaa6bb8fdf2f3074baa1d9
+  Curry: c8f65c8ade091aad5cb86f7b51dd408d698810ca
+  Kingfisher: 05bf8d04408aaa70fcd2c8c81b9f1d0f1ad313dd
+  RxCocoa: 89ab00d5753502520227940e3a0e0a0413683c6b
+  RxSwift: 77f3a0b15324baa7a1c9bfa9f199648a82424e26
+
+COCOAPODS: 0.39.0
